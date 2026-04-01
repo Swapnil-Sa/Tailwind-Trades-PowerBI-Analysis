@@ -39,14 +39,13 @@ The dataset includes:
 
 ### 📌 Sales Overview
 <p align="center">
-  <img src="Screenshot/Screenshot 2026-01-23 211121.png" alt="Sales Overview" width="80%">
+  <img src="Screenshot/sales-overview.png" width="80%">
 </p>
 
 ### 📌 Profit Overview
 <p align="center">
-  <img src="Screenshot/Screenshot 2026-01-23 211139.png" alt="Profit Overview" width="80%">
+  <img src="Screenshot/profit-overview.png" width="80%">
 </p>
-
 ---
 
 ## 📈 Key Insights
