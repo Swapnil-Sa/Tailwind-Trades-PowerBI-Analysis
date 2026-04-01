@@ -1,8 +1,8 @@
 # Tailwind Trades Power BI Analysis
 
 ## 📊 Project Overview
-This project is an end-to-end **Power BI capstone project** completed as part of the **Microsoft Data Analyst (Power BI) program**.  
-It analyzes the **Tailwind Trades dataset** to uncover insights related to revenue performance, profitability, product efficiency, and market behavior.
+This project is an end-to-end **Power BI project** * that's analyzes the **Tailwind Trades dataset** to uncover insights related to revenue performance, profitability, product efficiency, and market behavior.
+
 
 The focus of this project is not only reporting but **decision-oriented analytics** using advanced DAX and interactive visual design.
 
