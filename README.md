@@ -61,7 +61,7 @@ The dataset includes:
 ### 📊 Sales & Revenue Overview
 <p align="center">
   <img src="Tailwind-Trades-PowerBI-Analysis/Screenshot/Screenshot 2026-01-23 211121.png" width="45%">
-  <img src="Tailwind-Trades-PowerBI-Analysis/Screenshot/Screenshot 2026-01-23 211139.png" width="45%">
+  <img src="Tailwind-Trades-PowerBI-Analysis/Screenshot/[Screenshot 2026-04-01 152752].png" width="45%">
 </p>
 
 ---
