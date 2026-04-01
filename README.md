@@ -39,12 +39,12 @@ The dataset includes:
 
 ### 📌 Sales Overview
 <p align="center">
-  <img src="Screenshot/sales-overview.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Swapnil-Sa/Tailwind-Trades-PowerBI-Analysis/main/Screenshot/Screenshot%202026-01-23%20211121.png" width="80%">
 </p>
 
 ### 📌 Profit Overview
 <p align="center">
-  <img src="Screenshot/profit-overview.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Swapnil-Sa/Tailwind-Trades-PowerBI-Analysis/main/Screenshot/Screenshot%202026-01-23%20211139.png" width="80%">
 </p>
 ---
 
