@@ -1,4 +1,4 @@
-# 📊 Tailwind Trades Power BI Analysis
+# 📊 Tailwind Trades Revenue Analysis
 
 ## 🔍 Project Overview
 This project is an end-to-end data analysis and visualization of the Tailwind Traders dataset using Power BI.
